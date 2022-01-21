@@ -1,4 +1,4 @@
-# UPB 
+# UPB Grupo 6
 Nombres del grupo:
 Fabian Murillo
 Yhoselin Quintanilla
